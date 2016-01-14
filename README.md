@@ -1,4 +1,7 @@
 # adni-netwas
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.44401.svg)](http://dx.doi.org/10.5281/zenodo.44401)
+
 This repository is associated with a Song et al. manuscript describing a Network-wide Association Study of ADNI Cohorts. Source code is licensed under the BSD 3-clause license. Data and results are licensed CC0.
 
 There are a few steps associated with this analysis.
